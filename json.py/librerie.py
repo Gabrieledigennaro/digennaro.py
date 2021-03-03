@@ -2,7 +2,7 @@ import json
 
 librerie_STRINGA = ' ' '
 { 
-    "people" : [
+    "libri" : [
         {  
             "Nome": "L'ombra del vento",
             "autore" : " Carlos Ruis Zafon"
